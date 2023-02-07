@@ -11,14 +11,16 @@
 
    ![Zenoftech GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenoftech&show_icons=true&theme=tokyonight)
  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenoftech&layout=whcompact)](https://github.com/Zenoftech/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenoftech&layout=whcompact)](https://github.com/Zenoftech/github-readme-stats&theme=tokyonight)
    
 
+   >
+
 <p align="center">
-  <a href="https://twitter.com/Zenoftech1"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Zenoftech1?style=social"></a>
+
   <a href="https://github.com/Zenoftech?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Zenoftech?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Zenoftech?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Zenoftech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
+   <a href="https://twitter.com/Zenoftech1"><img alt="Twitter follow" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FZenoftech1%2Ffollowers"></a>
 </p>
