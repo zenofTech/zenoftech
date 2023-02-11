@@ -37,7 +37,7 @@ Welcome to Muktar Aliyu's aka Zenoftech's GitHub!
 </a>
   
 <a href="https://github.com/zenoftech/fun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=fun&theme=radical" width="255" height="100px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=fun&theme=radical" width="255" height="98px" />
 </a>
   
 <a href="https://github.com/zenoftech/alx-zero_day">
@@ -47,8 +47,8 @@ Welcome to Muktar Aliyu's aka Zenoftech's GitHub!
 <a href="https://github.com/zenoftech/ alx-pre_course">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=alx-pre_course&theme=radical" width="255"/>
 </a>
-  </p>
   
   <a href="https://github.com/zenoftech/pythonCal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=pythonCal&theme=radical" width="255" />
 </a>
+  </p>
