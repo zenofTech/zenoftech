@@ -29,26 +29,26 @@ Welcome to Muktar Aliyu's aka Zenoftech's GitHub!
 ## Top Repositories
 <p align="left">
 <a href="https://github.com/zenoftech/alx-system_engineering-devops">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=alx-system_engineering-devops&theme=radical" width="450"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=alx-system_engineering-devops&theme=radical" width="250"/>
 </a>
   
 <a href="https://github.com/zenoftech/Python-Exercises">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=Python-Exercises&theme=radical" width="450" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=Python-Exercises&theme=radical" width="250" />
 </a>
   
 <a href="https://github.com/zenoftech/pythonCal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=pythonCal&theme=radical" width="450" height="170px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=pythonCal&theme=radical" width="250" />
 </a>
   
 <a href="https://github.com/zenoftech/fun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=fun&theme=radical" width="450" height="173px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=fun&theme=radical" width="250" height="100px" />
 </a>
   
 <a href="https://github.com/zenoftech/alx-zero_day">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=alx-zero_day&theme=radical" width="450" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=alx-zero_day&theme=radical" width="250" />
 </a>
 
 <a href="https://github.com/zenoftech/ alx-pre_course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=alx-pre_course&theme=radical" width="450"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=alx-pre_course&theme=radical" width="250"/>
 </a>
   </p>
