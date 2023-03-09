@@ -10,18 +10,20 @@ Welcome to Muktar Aliyu's aka Zenoftech's GitHub!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=A02CFD&width=450&lines=%F0%9F%91%8B+Hi!+Zenoftech+here+:);Software+Engineering+Student+@ALX;CSC+Undergraduate.;An+enthusiastic+programmer;who+loves+to+explore%2C;automate%2C+break%2C;learn%2C+and+hack+all+things!;I+like+to+build+and;learn+in+the+open%2C;sharing+new+projects%2C+insights;and+thoughts%2C+on+Twitter." alt="Typing SVG" /></a>
 </p>
 
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenoftech&show_icons=true&theme=tokyonight)
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zenoftech&show_icons=true&theme=tokyonight)
  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenoftech&layout=whcompact)](https://github.com/Zenoftech/github-readme-stats&theme=tokyonight)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=zenoftech&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+ 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenoftech&layout=whcompact)](https://github.com/zenoftech/github-readme-stats&theme=default)
 
 <p align="center">
-  <a href="https://github.com/Zenoftech?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Zenoftech?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Zenoftech?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Zenoftech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"></a>
-<!--   <a href="https://github.com/zeno/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://simple-counter.infinityfreeapp.com/?i=1""/></a>  --> <br><br>
- <a href="https://ko-fi.com/zenoftech"> <img src="https://img.shields.io/badge/Coffee-Buy%20me%20a%20coffee-brightgreen?style=for-the-badge&logo=Ko-fi"></a>
+  <a href="https://github.com/zenoftech?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/zenoftech?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
+  <a href="https://github.com/zenoftech?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/zenoftech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
+  <a href="https://github.com/zenoftech/simple-counter">
+    <img alt="GitHub profile views" title="GitHub profile views" src="https://simple-counter.infinityfreeapp.com/" /></a>  <br><br>
+ <a href="https://ko-fi.com/zenoftech"> <img src="https://img.shields.io/badge/Coffee-Buy%20me%20a%20coffee-brightgreen?style=for-the-badge&logo=Ko-fi" /></a>
  </p>
  
  ---
