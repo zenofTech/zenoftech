@@ -21,8 +21,8 @@ Welcome to Muktar Aliyu's aka Zenoftech's GitHub!
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/zenoftech?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
   <a href="https://github.com/zenoftech?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/zenoftech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
-<!--   <a href="https://github.com/zenoftech/simple-counter">
-    <img alt="GitHub profile views" title="GitHub profile views" src="https://simple-counter.infinityfreeapp.com/" /></a> -->  <br>
+  <a href="https://github.com/zenoftech/simple-counter">
+    <img alt="GitHub profile views" title="GitHub profile views" src="https://simple-counter.infinityfreeapp.com/" /></a>   <br>
  <a href="https://ko-fi.com/zenoftech"> <img src="https://img.shields.io/badge/Coffee-Buy%20me%20a%20coffee-brightgreen?style=for-the-badge&logo=Ko-fi" /></a>
  </p>
  
