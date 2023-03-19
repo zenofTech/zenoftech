@@ -40,27 +40,35 @@ Welcome to Zenoftech's GitHub!
  ---
 ## Top Repositories
 <p align="left">
+<a href="https://github.com/zenoftech/alx-low_level_programming">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=alx-low_level_programming&theme=radical" width="278"/>
+</a>
+
+<a href="https://github.com/zenoftech/Python-Exercises">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=Python-Exercises&theme=radical" width="278" />
+</a>
+
+<a href="https://github.com/zenoftech/0x01-Networking">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=0x01-Networking&theme=radical" width="278" />
+</a>
+
 <a href="https://github.com/zenoftech/alx-system_engineering-devops">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=alx-system_engineering-devops&theme=radical" width="278"/>
 </a>
   
-<a href="https://github.com/zenoftech/Python-Exercises">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=Python-Exercises&theme=radical" width="278" />
+  <a href="https://github.com/zenoftech/pythonCal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=pythonCal&theme=radical" width="278" />
 </a>
   
 <a href="https://github.com/zenoftech/fun">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=fun&theme=radical" width="278" height="120px" />
 </a>
-  
-<a href="https://github.com/zenoftech/alx-zero_day">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=alx-zero_day&theme=radical" width="278" />
-</a>
 
-<a href="https://github.com/zenoftech/ alx-pre_course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=alx-pre_course&theme=radical" width="278"/>
+  <a href="https://github.com/zenoftech/CPP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=CPP&theme=radical" width="278" />
 </a>
   
-  <a href="https://github.com/zenoftech/pythonCal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=pythonCal&theme=radical" width="278" />
+<a href="https://github.com/zenoftech/Python-countdown">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenoftech&repo=Python-countdown&theme=radical" width="278" />
 </a>
   </p>
