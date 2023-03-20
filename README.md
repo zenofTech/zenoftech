@@ -1,19 +1,18 @@
 <!-- code inspired by - https://github.com/marlenezw -->
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <h1 align="center">  
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4999&pause=1000&color=2A1DEEDF&background=2E3238C&Vcenter=true&repeat=false&width=900&lines=Welcome+to+Muktar+Aliyu's+aka+Zenoftech's+ Github!" alt="Typing SVG" /></a> -->
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110">
 Welcome to Zenoftech's GitHub!
  <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
 </h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=A02CFD&width=450&lines=%F0%9F%91%8B+Hi!+Zenoftech+here+:);Software+Engineering+Student+@ALX;CSC+Undergraduate.;An+enthusiastic+programmer;who+loves+to+explore%2C;automate%2C+break%2C;learn%2C+and+hack+all+things!;I+like+to+build+and;learn+in+the+open%2C;sharing+new+projects%2C+insights;and+thoughts%2C+on+Twitter." alt="Typing SVG" /></a>
 </p>
 
-
-|My github statistics|Github Streak|My languages|GitHub profile views|
-|-|-|-|-|
-|[![zenoftech's github stats](https://github-readme-stats.vercel.app/api?username=zenoftech&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/zenoftech)|[![GitHub Streak](https://streak-stats.demolab.com/?user=zenoftech&theme=ads-juicy-fresh)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenoftech&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/zenoftech)|![Visitors](https://profile-counter.glitch.me/%7Bzenoftech%7D/count.svg)|
+|My github statistics|Github Streak|My languages|
+|-|-|-|
+|[![zenoftech's github stats](https://github-readme-stats.vercel.app/api?username=zenoftech&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/zenoftech)|[![GitHub Streak](https://streak-stats.demolab.com/?user=zenoftech&theme=ads-juicy-fresh)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenoftech&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/zenoftech)|
+<!-- ![Visitors](https://profile-counter.glitch.me/%7Bzenoftech%7D/count.svg)| -->
 
 
 <p align="center">
@@ -21,8 +20,9 @@ Welcome to Zenoftech's GitHub!
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/zenoftech?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
   <a href="https://github.com/zenoftech?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/zenoftech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
-<!--  <a href="https://github.com/zenoftech/simple-counter">
-    <img alt="GitHub profile views" title="GitHub profile views" src="https://simple-counter.infinityfreeapp.com/" /></a> -->  <br>
+ <a href="https://komarev.com/ghpvc/?username=zenoftech">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=zenoftech&style=for-the-badge&color=blue"/></a>
+ <br>
  <a href="https://ko-fi.com/zenoftech"> <img src="https://img.shields.io/badge/Coffee-Buy%20me%20a%20coffee-brightgreen?style=for-the-badge&logo=Ko-fi" /></a> <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
  </p>
  
