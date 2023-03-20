@@ -6,12 +6,12 @@ Welcome to Zenoftech's GitHub!
  <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
 </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=A02CFD&width=450&lines=%F0%9F%91%8B+Hi!+Zenoftech+here+:);Software+Engineering+Student+@ALX;CSC+Undergraduate.;An+enthusiastic+programmer;who+loves+to+explore%2C;automate%2C+break%2C;learn%2C+and+hack+all+things!;I+like+to+build+and;learn+in+the+open%2C;sharing+new+projects%2C+insights;and+thoughts%2C+on+Twitter." alt="Typing SVG" /></a>
+  <a href="https://a-muktar.github.io/muktar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=A02CFD&width=450&lines=%F0%9F%91%8B+Hi!+Zenoftech+here+:);Software+Engineering+Student+@ALX;CSC+Undergraduate.;An+enthusiastic+programmer;who+loves+to+explore%2C;automate%2C+break%2C;learn%2C+and+hack+all+things!;I+like+to+build+and;learn+in+the+open%2C;sharing+new+projects%2C+insights;and+thoughts%2C+on+Twitter." alt="Typing SVG" /></a>
 </p>
 
 |My github statistics|Github Streak|My languages|
 |-|-|-|
-|[![zenoftech's github stats](https://github-readme-stats.vercel.app/api?username=zenoftech&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/zenoftech)|[![GitHub Streak](https://streak-stats.demolab.com/?user=zenoftech&theme=ads-juicy-fresh)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenoftech&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/zenoftech)|
+|[![zenoftech's github stats](https://github-readme-stats.vercel.app/api?username=zenoftech&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/zenoftech)|[![GitHub Streak](https://streak-stats.demolab.com/?user=zenoftech&theme=ads-juicy-fresh)](https://github.com/zenoftech)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenoftech&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/zenoftech)|
 <!-- ![Visitors](https://profile-counter.glitch.me/%7Bzenoftech%7D/count.svg)| -->
 
 
