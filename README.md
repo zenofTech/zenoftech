@@ -27,7 +27,8 @@ Welcome to Zenoftech's GitHub!
  </p>
  
  ---
- ## Social 
+ ## Social <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="22" height="22">
+
  <p align="left">
 <a href="https://api.whatsapp.com/send/?phone=%2B2348102075944&text=Hello+Muktar!+How+are+you+doing?&type=phone_number&app_absent=0"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a> 
  <a href="https://facebook.com/info.mukhtar"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
