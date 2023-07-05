@@ -32,7 +32,7 @@ Welcome to Zenoftech's GitHub!
  <p align="left">
 <a href="https://api.whatsapp.com/send/?phone=%2B2348102075944&text=Hello+Muktar!+How+are+you+doing?&type=phone_number&app_absent=0"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a> 
   <a href="https://linkedin.com/in/zenoftech"><img alt="Twitter" title="LinkedIn" src="https://img.shields.io/badge/linkedIn-2CA5E0?style=for-the-badge&logo=linkedIn&logoColor=white"></a>
- <a href="https://facebook.com/info.mukhtar"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+ <a href="https://facebook.com/zenoftech1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/zenoftech/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="Instagram"></a>
  <a href="https://t.me/zenoftech"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
  <a href="mailto:zenoftech.info@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
