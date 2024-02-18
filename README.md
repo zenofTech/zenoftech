@@ -6,7 +6,7 @@ Welcome to Zenoftech's GitHub!
  <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
 </h1>
 <p align="center">
-  <a href="https://a-muktar.github.io/muktar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=A02CFD&width=450&lines=%F0%9F%91%8B+Hi!+Zenoftech+here+:);Software+Engineering+Student+@ALX;CSC+Undergraduate.;An+enthusiastic+programmer;who+loves+to+explore%2C;automate%2C+break%2C;learn%2C+and+hack+all+things!;I+like+to+build+and;learn+in+the+open%2C;sharing+new+projects%2C+insights;and+thoughts%2C+on+Twitter." alt="Typing SVG" /></a>
+  <a href="https://a-muktar.github.io/muktar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=A02CFD&width=450&lines=%F0%9F%91%8B+Hi!+Zenoftech+here+:);Software+Engineering+@ALX;CSC+graduate.;An+enthusiastic+programmer;who+loves+to+explore%2C;automate%2C+break%2C;learn%2C+and+hack+all+things!;I+like+to+build+and;learn+in+the+open%2C;sharing+new+projects%2C+insights;and+thoughts%2C+on+Twitter." alt="Typing SVG" /></a>
 </p>
 
 |My github statistics|Github Streak|My languages|
